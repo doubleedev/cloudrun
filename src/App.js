@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample React App
+          Sample React App on Cloud Run
         </p>
       </header>
     </div>
